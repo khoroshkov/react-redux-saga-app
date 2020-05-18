@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-redux-saga-app/static/css/main.0236f0de.chunk.css",
+    "main.js": "/react-redux-saga-app/static/js/main.0069dc66.chunk.js",
+    "main.js.map": "/react-redux-saga-app/static/js/main.0069dc66.chunk.js.map",
+    "runtime-main.js": "/react-redux-saga-app/static/js/runtime-main.a7217cce.js",
+    "runtime-main.js.map": "/react-redux-saga-app/static/js/runtime-main.a7217cce.js.map",
+    "static/js/2.17d68e2e.chunk.js": "/react-redux-saga-app/static/js/2.17d68e2e.chunk.js",
+    "static/js/2.17d68e2e.chunk.js.map": "/react-redux-saga-app/static/js/2.17d68e2e.chunk.js.map",
+    "index.html": "/react-redux-saga-app/index.html",
+    "precache-manifest.afc260fc86a23f99da0657151c871eb6.js": "/react-redux-saga-app/precache-manifest.afc260fc86a23f99da0657151c871eb6.js",
+    "service-worker.js": "/react-redux-saga-app/service-worker.js",
+    "static/css/main.0236f0de.chunk.css.map": "/react-redux-saga-app/static/css/main.0236f0de.chunk.css.map",
+    "static/js/2.17d68e2e.chunk.js.LICENSE.txt": "/react-redux-saga-app/static/js/2.17d68e2e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a7217cce.js",
+    "static/js/2.17d68e2e.chunk.js",
+    "static/css/main.0236f0de.chunk.css",
+    "static/js/main.0069dc66.chunk.js"
+  ]
+}
